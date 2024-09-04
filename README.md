@@ -49,7 +49,7 @@ The model architecture is based on the principles of decision trees used in boos
 
 The model was evaluated using RMSE (Root Mean Square Error) and other metrics. Below are the comparison results for different configurations:
 
-### RMSE Scores (GBoost vs XGBoost):
+### RMSE Scores (GBoost vs XGBoost) on complete Dataset:
 - **Fixed Learning Rate:** 
   - GBoost: 4335.07 
   - XGBoost: 3864.85
